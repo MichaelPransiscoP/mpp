@@ -1,0 +1,4 @@
+skip-yarn: true
+db-type: mysql
+bootstrap: 4
+with-dep: true
